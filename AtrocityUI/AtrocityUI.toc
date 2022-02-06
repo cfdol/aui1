@@ -1,0 +1,50 @@
+## Interface: 90100
+## Author: Ripdisk
+## Version: 2.3.0
+## Title: |cff7381ffAtrocityUI|r
+## Notes: AtrocityUI Installer and Media
+## DefaultState: enabled
+## SavedVariables: AtrocityUIDB
+## X-BigWigs: 2.2.0
+## X-Details: 2.3.0
+## X-ElvUI: 2.3.0
+## X-MRT: 2.3.0
+## X-OmniCD: 2.3.0
+## X-Plater: 2.3.0
+## X-WeakAuras: 2.3.0
+## X-GladiusEx: 2.1.1
+## RequiredDeps: ElvUI
+## OptionalDeps: AtrocityMedia
+
+## Base AtrocityUI installer addon files
+AtrocityUI.lua
+
+AddonDataExported\1080p\BigWigs.lua
+AddonDataExported\1080p\Details.lua
+AddonDataExported\1080p\ElvUI.lua
+AddonDataExported\1080p\MRT.lua
+AddonDataExported\1080p\OmniCD.lua
+AddonDataExported\1080p\Plater.lua
+AddonDataExported\1080p\WeakAuras.lua
+AddonDataExported\1080p\GladiusEx.lua
+
+AddonDataExported\1440p\BigWigs.lua
+AddonDataExported\1440p\Details.lua
+AddonDataExported\1440p\ElvUI.lua
+AddonDataExported\1440p\MRT.lua
+AddonDataExported\1440p\OmniCD.lua
+AddonDataExported\1440p\Plater.lua
+AddonDataExported\1440p\WeakAuras.lua
+AddonDataExported\1440p\GladiusEx.lua
+
+AddonDataExported\Common\AddonSkins.lua
+
+## Import functions
+AddonImports\ElvUI.lua
+AddonImports\Details.lua
+AddonImports\BigWigs.lua
+AddonImports\MRT.lua
+AddonImports\OmniCD.lua
+AddonImports\WeakAuras.lua
+AddonImports\GladiusEx.lua
+AddonImports\Plater.lua
